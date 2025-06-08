@@ -1,1 +1,1 @@
-# aws Case Study
+# aws

@@ -1,1 +1,1 @@
-# azure Case Study
+# azure

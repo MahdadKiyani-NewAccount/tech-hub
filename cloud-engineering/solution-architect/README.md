@@ -1,1 +1,1 @@
-# solution-architect Case Study
+# solution-architect
